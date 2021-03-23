@@ -11,3 +11,8 @@
 body {
     background-color:hsl(180, 100%, 30%);
 }
+p {
+    color: moccasin;
+    text-align: center;
+    font-style: italic;
+}
