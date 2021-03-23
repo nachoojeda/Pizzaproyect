@@ -6,4 +6,8 @@
     text-align: center;
     background-color: teal;
     color: wheat;
+    font-size: 80px;
+}
+body {
+    background-color:hsl(180, 100%, 30%);
 }
